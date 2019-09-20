@@ -1,2 +1,2 @@
-# Practica-01
+# Práctica-01
 Repositorio donde se subirán todos los documentos y archivos necesarios para el desarrollo del videojuego.
